@@ -19,6 +19,11 @@ Analysis Performed
 - Top Product Analysis
 
 Key Insights
+  Total Sales: 10667881
+  Top Selling Product: Camera
+  Highest Sales Region: West
+  Highest Revenue Category: Electronics
+
 - Identified top-performing regions.
 - Compared sales across categories.
 - Analyzed sales trends over time.
