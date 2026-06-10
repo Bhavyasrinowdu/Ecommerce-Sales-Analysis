@@ -1,9 +1,9 @@
-E-Commerce Sales Analysis
+# E-Commerce Sales Analysis
 
-Project Overview
+## Project Overview
 This project analyzes e-commerce sales data using Python and Google Colab.
 
-Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
@@ -11,19 +11,20 @@ Tools Used
 - Seaborn
 - Google Colab
 
-Analysis Performed
+## Analysis Performed
 - Data Cleaning
 - Category-wise Sales Analysis
 - Region-wise Sales Analysis
 - Monthly Sales Trend Analysis
 - Top Product Analysis
 
-Key Insights
-  Total Sales: 10667881
-  Top Selling Product: Camera
-  Highest Sales Region: West
-  Highest Revenue Category: Electronics
+## Key Insights
+- Total Sales: 10,667,881
+- Top Selling Product: Camera
+- Highest Sales Region: West
+- Highest Revenue Category: Electronics
 
+## Business Insights
 - Identified top-performing regions.
 - Compared sales across categories.
 - Analyzed sales trends over time.
